@@ -1,6 +1,4 @@
 ### Hi there 👋 , I am Vineet Nigam , Working as Senior Android Developer at Tata 1mg
-
-![Image Alt text](/https://media.licdn.com/dms/image/D5616AQH2VPFtthob6Q/profile-displaybackgroundimage-shrink_350_1400/0/1712385478177?e=1718841600&v=beta&t=1LqW26wEKWru9GGAADMGIDlhTs4eRr3LUsLnbWS_GGI)
 <!--
 **pcpvin/pcpvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
