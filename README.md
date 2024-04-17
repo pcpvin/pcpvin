@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 , I am Vineet Nigam 
+
+**About Me** : 
+Senior Android Software Engineer with a Master's in Computer Science, specializing in Android Development: Delivering Scalable, High-Performance Solutions with Expertise in Java/Kotlin, Architecture Design, and Agile Methodologies.
 
 <!--
 **pcpvin/pcpvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
