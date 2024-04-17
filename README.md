@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pcpvin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Alt text]([[image link]()]()
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcpvin&show_icons=true&theme=radical)
